@@ -1,6 +1,9 @@
 # Dual Attention CNN-GNN Model for Drug–Target Interaction Prediction
 
-![DTI Banner](https://img.shields.io/badge/AI--Driven-Drug_Discovery-green.svg)
+<p align="center">
+  <img src="https://github.com/Shayanthn/Taherkhani-DualAttention-DTI/blob/main/header%20(2).png?raw=true" alt="Dual Attention DTI Banner" width="100%" />
+</p>
+
 
 A cutting-edge deep learning framework developed by **Shayan Taherkhani** for predicting drug–target interactions (DTIs) using dual attention mechanisms on graph-based and sequence-based representations.
 
