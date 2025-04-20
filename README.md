@@ -27,19 +27,6 @@ This repository contains:
 
 ---
 
-## 🔗 Repository Structure
-
-```bash
-.
-├── article/data/davis/            # Davis dataset
-│   ├── data.csv                # Contains SMILES, sequences, and affinity
-├── dual_attention_dti_model.py    # Full PyTorch implementation
-├── Dual_Attention_CNN-GNN_DTI_Model_Shayan_Taherkhani.pdf  # Research paper
-├── README.md
-```
-
----
-
 ## 💡 Quick Start
 
 ### 1. Clone the Repository
@@ -84,15 +71,6 @@ python dual_attention_dti_model.py
 Epoch 50, Train Loss: 0.2167, Test Loss: 0.1884, RMSE: 0.4265, CI: 0.8764
 True affinity: 8.50, Predicted: 8.42
 ```
-
----
-
-## 🌎 Demo Video (Teaser)
-A 10-second showcase of the model pipeline and prediction process is available via Sora AI (or YouTube/GitHub Releases).
-
-> 🎥 **Watch Video**: COMING SOON
-
----
 
 ## 🎓 Citation
 ```
